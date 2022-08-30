@@ -1,3 +1,5 @@
+<img src="https://github-readme-stats.vercel.app/api?username=JonathanPlasse&show_icons=true&theme=github_dark&count_private=true&show_icons=true&custom_title=JonathanPlasse" width="69%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanPlasse&theme=github_dark" width="28.7%">
+
 ### Hi there 👋
 
 <!--
